@@ -223,7 +223,4 @@
 #     else:
 #         print("not found")
 
-l = [1.0,0,0,0,0]
-if 0 in l:
-    l.remove(0)
-print(l)
+
